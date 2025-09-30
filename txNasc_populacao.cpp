@@ -30,7 +30,7 @@ main()
 		taxaA = taxaA / 100;
 		taxaB = taxaB / 100;
 		
-		//calculo da população
+		//calculo da populaÃ§Ã£o
 		
 		while (populaB > populaA)
 		{
@@ -40,9 +40,10 @@ main()
 			populaB = populaB + (populaB * taxaB);
 			printf("\nPais B: %d", populaB);
 			
-			anos = anos+ 1;
+			anos = anos + 1;
 		}
 		printf("\nO pais A levara %d anos para ultrapassar o pais B", anos);
 
 }//fim do programa
+
 
