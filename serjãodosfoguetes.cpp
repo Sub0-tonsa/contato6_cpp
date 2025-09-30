@@ -1,5 +1,5 @@
 /*
-	Name: serj„odosfoguetes.cpp
+	Name: serj√£odosfoguetes.cpp
 	Author: Giovanni Tonsa
 	Date: 30/09/25 11:10
 	Description: Programa que mostra a contagem regressiva de um foquete
@@ -17,7 +17,6 @@ main()
 	{
 		lanca = 0;
 		
-		
 		puts("Programa que mostra o lancamento de um foguete");
 		puts("==============================================");
 		printf("Digite seu tempo de lancamento: ");
@@ -33,4 +32,5 @@ main()
 	system("cls");
 	}//fim do while
 }//fim do programa
+
 
